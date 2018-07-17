@@ -1,0 +1,10 @@
+div {
+	border:1px solid black; 
+	width: 35%;
+	background-color: #f622f9;
+	margin: 0 auto;
+}
+
+div>textarea {
+	margin-left: 8%
+}
